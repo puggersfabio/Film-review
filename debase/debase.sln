@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "debase", "debase\debase.csproj", "{C270C913-1D54-4431-B063-009153B8EFC1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DebaseInstaller", "DebaseInstaller\DebaseInstaller.vdproj", "{7379E42F-0A27-44C7-999A-F621F34DA6C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C270C913-1D54-4431-B063-009153B8EFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C270C913-1D54-4431-B063-009153B8EFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C270C913-1D54-4431-B063-009153B8EFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C270C913-1D54-4431-B063-009153B8EFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7379E42F-0A27-44C7-999A-F621F34DA6C9}.Debug|Any CPU.ActiveCfg = Debug
+		{7379E42F-0A27-44C7-999A-F621F34DA6C9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C92677-821E-41F7-816A-1F8B23BEA509}
+	EndGlobalSection
+EndGlobal
